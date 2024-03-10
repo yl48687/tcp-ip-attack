@@ -1,5 +1,5 @@
 # TCP IP Attack
-The project utilizes the TCP Attack Lab provided by SEEDLAB 2.0 as a foundational platform for hands-on exploration and experimentation in the domain of network security. This lab offers practical experience in understanding and executing various TCP attacks, crucial components of contemporary cybersecurity education.
+The project utilizes the TCP/IP Attack Lab provided by SEEDLAB 2.0 as a foundational platform for hands-on exploration and experimentation in the domain of network security. This lab offers practical experience in understanding and executing various TCP attacks, crucial components of contemporary cybersecurity education.
 
 In this lab, the focus is on delving into the intricacies of TCP vulnerabilities across different attack vectors. The primary goal is to provide the skills to identify, exploit, and mitigate TCP vulnerabilities effectively.
 
@@ -11,7 +11,7 @@ The detailed project report, including the methodology, findings, and analysis o
 ## Additional
 
 ### Original Lab Instructions
-The original lab instructions outlining the objectives, tasks, and guidelines for the TCP IP Attack Lab can be accessed [here](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/).
+The original lab instructions outlining the objectives, tasks, and guidelines for the TCP/IP Attack Lab can be accessed [here](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/).
 
 ### Modified Files
 The modified files according to lab instructions are as follows:
